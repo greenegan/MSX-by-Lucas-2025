@@ -1,0 +1,33 @@
+sorting:
+  enabled: true
+  reverse: false
+  update-interval: 5
+header-footer:
+  enabled: true
+  update-interval: 1
+  header:
+  - '{animation:demo}'
+  - ''
+  - '[gradient=#01b0fb,#f50be5]----------------[/gradient][gradient=#f50be5,#01b0fb]----------------[/gradient]'
+  footer:
+  - '[gradient=#01b0fb,#f50be5]----------------[/gradient][gradient=#f50be5,#01b0fb]----------------[/gradient]'
+  - ''
+  - '[gradient=#5ffb15,#b8fd24]Server powered by Skipper and Greenegan network[/gradient]'
+  animations:
+    demo:
+      delay: 5
+      frames:
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#f98b14y#fa701aW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#f98b14y#fa701aW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#f98b14y#fa701aW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#f98b14y#fa701aW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#FFFFFFT#f7df05a#f8c30aw#f8a70fn#f98b14y#fa701aW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#FFFFFFa#f8c30aw#f8a70fn#f98b14y#fa701aW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#FFFFFFw#f8a70fn#f98b14y#fa701aW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#FFFFFFn#f98b14y#fa701aW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#FFFFFFy#fa701aW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#f98b14y#FFFFFFW#fb541fo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#f98b14y#fa701aW#FFFFFFo#fb3824r#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#f98b14y#fa701aW#fb541fo#FFFFFFr#fc1c29l#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#f98b14y#fa701aW#fb541fo#fb3824r#FFFFFFl#fd002ed'
+      - '#f6fb00T#f7df05a#f8c30aw#f8a70fn#f98b14y#fa701aW#fb541fo#fb3824r#fc1c29l#FFFFFFd'

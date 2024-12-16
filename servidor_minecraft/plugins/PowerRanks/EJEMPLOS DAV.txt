@@ -1,0 +1,1 @@
+ prefix: '[[gradient=#00AA00,#55FF55]Lo[/gradient][gradient=#55FF55,#00AA00]bo[/gradient]]'

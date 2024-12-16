@@ -1,0 +1,353 @@
+Moderator:
+  permissions: []
+  inheritances: []
+  weight: 50
+  suffix: ''
+  prefix: '[gradient=#9d1dff,#e22581]MODERATOR[/gradient]'
+  default: false
+  chatcolor: ''
+  namecolor: ''
+  buyCost: 0.0
+  buyDescription: ''
+  buyableRanks: []
+  buyCommand: ''
+Owner:
+  permissions: []
+  inheritances: []
+  weight: 100
+  suffix: ''
+  prefix: '[gradient=#ff00ff,#33ccff]OWNER[/gradient]'
+  default: false
+  chatcolor: ''
+  namecolor: ''
+  buyCost: 0.0
+  buyDescription: ''
+  buyableRanks: []
+  buyCommand: ''
+Lobo:
+  permissions:
+  - name: minecraft.command.help
+    value: true
+  - name: essentials.me
+    value: true
+  - name: essentials.delhome
+    value: true
+  - name: essentials.suicide
+    value: true
+  - name: essentials.tpa
+    value: true
+  - name: essentials.tpdeny
+    value: true
+  - name: essentials.tpacancel
+    value: true
+  - name: essentials.tpaccept
+    value: true
+  - name: minecraft.command.list
+    value: true
+  - name: minecraft.command.me
+    value: true
+  - name: minecraft.command.say
+    value: true
+  - name: minecraft.command.seed
+    value: true
+  - name: minecraft.command.tellraw
+    value: true
+  - name: minecraft.command.tell
+    value: true
+  - name: minecraft.commandblock
+    value: true
+  - name: powerranks.cmd.help
+    value: true
+  - name: essentials.hat
+    value: true
+  - name: ei.item.HOME
+    value: true
+  - name: ei.item.HOME2
+    value: true
+  - name: ei.item.WOLF_MORPH
+    value: true
+  - name: ei.item.Quita_disfraz
+    value: true
+  - name: bottledexp.custominteract
+    value: true
+  - name: vampirism.check
+    value: true
+  - name: vampirism.bite.attack
+    value: true
+  - name: vampirism.bite.attack.player
+    value: true
+  - name: vampirism.bite.feed
+    value: true
+  - name: vampirism.bite.feed.player
+    value: true
+  - name: vampirism.infect.player
+    value: true
+  - name: vampirism.action.*
+    value: true
+  - name: werewolves.check
+    value: true
+  - name: werewolves.form
+    value: true
+  - name: werewolves.form.transform
+    value: true
+  - name: werewolves.bite
+    value: true
+  - name: werewolves.bite.player
+    value: true
+  - name: werewolves.infect
+    value: true
+  - name: vampirism.action.vampirism.bat
+    value: true
+  - name: ei.item.*
+    value: true
+  - name: backpack.use
+    value: false
+  - name: backpack.size.1
+    value: true
+  - name: backpack.keepOnDeath
+    value: false
+  - name: TimeVote.Day
+    value: true
+  - name: TimeVote.Night
+    value: true
+  - name: TimeVote.Vote
+    value: true
+  - name: WeatherVote.Sun
+    value: true
+  - name: WeatherVote.Rain
+    value: true
+  - name: WeatherVote.Vote
+    value: true
+  - name: ei.item.ESTUCHE
+    value: false
+  - name: ei.item.Activamochila
+    value: false
+  - name: essentials.sethome
+    value: false
+  - name: essentials.home
+    value: false
+  - name: group.conejo
+    value: true
+  inheritances:
+  - Conejo
+  weight: 55
+  suffix: ''
+  prefix: '[[gradient=#FFFF55,#55FF55]Lobo[/gradient]&r]'
+  default: false
+  chatcolor: ''
+  namecolor: ''
+  buyCost: 0.0
+  buyDescription: ''
+  buyableRanks: []
+  buyCommand: ''
+Tawny:
+  permissions: []
+  inheritances:
+  - Conejo
+  weight: 0
+  suffix: ''
+  prefix: ?[[gradient=#FF55FF,#55FFFF]Tawny[/gradient]&r]
+  default: false
+  chatcolor: ''
+  namecolor: ''
+  buyCost: 0.0
+  buyDescription: ''
+  buyableRanks: []
+  buyCommand: ''
+Admin:
+  permissions: []
+  inheritances: []
+  weight: 75
+  suffix: ''
+  prefix: '[gradient=#ffff00,#ef3300]ADMIN[/gradient]'
+  default: false
+  chatcolor: ''
+  namecolor: ''
+  buyCost: 0.0
+  buyDescription: ''
+  buyableRanks: []
+  buyCommand: ''
+Conejo:
+  permissions:
+  - name: essentials.home
+    value: false
+  - name: essentials.sethome
+    value: false
+  - name: essentials.me
+    value: true
+  - name: essentials.delhome
+    value: true
+  - name: essentials.suicide
+    value: true
+  - name: essentials.tpa
+    value: true
+  - name: essentials.tpdeny
+    value: true
+  - name: essentials.tpacancel
+    value: true
+  - name: essentials.tpaccept
+    value: true
+  - name: essentials.tpahere
+    value: true
+  - name: essentials.tpask
+    value: true
+  - name: essentials.msg.*
+    value: true
+  - name: minecraft.command.help
+    value: true
+  - name: minecraft.command.list
+    value: true
+  - name: minecraft.command.me
+    value: true
+  - name: minecraft.command.say
+    value: true
+  - name: minecraft.command.seed
+    value: true
+  - name: minecraft.command.tellraw
+    value: true
+  - name: minecraft.command.tell
+    value: true
+  - name: minecraft.commandblock
+    value: true
+  - name: powerranks.cmd.help
+    value: true
+  - name: essentials.hat
+    value: true
+  - name: ei.item.HOME
+    value: true
+  - name: ei.item.HOME2
+    value: true
+  - name: ei.item.WOLF_MORPH
+    value: true
+  - name: ei.item.Quita_disfraz
+    value: true
+  - name: ei.item.ESTUCHE
+    value: true
+  - name: ei.item.Activamochila
+    value: true
+  - name: ei.item.*
+    value: true
+  - name: bottledexp.custominteract
+    value: true
+  - name: vampirism.check
+    value: true
+  - name: vampirism.bite.attack
+    value: true
+  - name: vampirism.bite.attack.player
+    value: true
+  - name: vampirism.bite.feed
+    value: true
+  - name: vampirism.bite.feed.player
+    value: true
+  - name: vampirism.infect.player
+    value: true
+  - name: vampirism.action.*
+    value: true
+  - name: werewolves.check
+    value: true
+  - name: werewolves.form
+    value: true
+  - name: werewolves.form.transform
+    value: true
+  - name: werewolves.bite
+    value: true
+  - name: werewolves.bite.player
+    value: true
+  - name: werewolves.infect
+    value: true
+  - name: vampirism.action.vampirism.bat
+    value: true
+  - name: TimeVote.Day
+    value: true
+  - name: TimeVote.Night
+    value: true
+  - name: TimeVote.Vote
+    value: true
+  - name: backpack.size.3
+    value: true
+  - name: WeatherVote.Sun
+    value: true
+  - name: WeatherVote.Rain
+    value: true
+  - name: WeatherVote.Vote
+    value: true
+  - name: backpack.use
+    value: true
+  - name: backpack.size.1
+    value: true
+  - name: backpack.keepOnDeath
+    value: true
+  - name: skinsrestorer.command
+    value: true
+  - name: skinsrestorer.command.set
+    value: true
+  - name: skinsrestorer.command.set.url
+    value: true
+  - name: skinsrestorer.command.gui
+    value: true
+  - name: skinsrestorer.command.clear
+    value: true
+  - name: skinsrestorer.command.update
+    value: true
+  - name: minecraft.command.back
+    value: false
+  - name: minecraft.command.home
+    value: false
+  - name: minecraft.command.sethome
+    value: false
+  - name: minecraft.command.enderchest
+    value: false
+  - name: minecraft.command.rtp
+    value: false
+  - name: minecraft.command.spawn
+    value: false
+  - name: minecraft.command.warp
+    value: false
+  - name: duels.stats.others
+    value: true
+  - name: duels.stats
+    value: true
+  - name: duels.toggle
+    value: true
+  - name: duels.top
+    value: true
+  - name: duels.queue
+    value: true
+  - name: duels.spectate
+    value: true
+  - name: command.doublejump
+    value: true
+  - name: lockettex.create
+    value: true
+  - name: interactivebooks.open.reglas
+    value: true
+  - name: voicechat.listen
+    value: true
+  - name: voicechat.speak
+    value: true
+  - name: voicechat.groups
+    value: true
+  inheritances: []
+  weight: 10
+  suffix: ''
+  prefix: '[[gradient=#FF55FF,#55FFFF]Conejo[/gradient]&r]'
+  default: true
+  chatcolor: ''
+  namecolor: ''
+  buyCost: 0.0
+  buyDescription: ''
+  buyableRanks: []
+  buyCommand: ''
+Member:
+  permissions: []
+  inheritances: []
+  weight: 0
+  suffix: ''
+  prefix: '[gradient=#127e00,#3eaf18]MEMBER[/gradient]'
+  default: false
+  chatcolor: ''
+  namecolor: ''
+  buyCost: 0.0
+  buyDescription: ''
+  buyableRanks: []
+  buyCommand: ''
