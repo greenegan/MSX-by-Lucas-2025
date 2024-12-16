@@ -257,3 +257,12 @@
 [16Dec2024 00:25:25.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Greenegan joined the game
 [16Dec2024 00:27:39.747] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Greenegan lost connection: Disconnected
 [16Dec2024 00:27:39.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Greenegan left the game
+[16Dec2024 00:28:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[16Dec2024 00:28:40.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[16Dec2024 00:28:43.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Dec2024 00:28:43.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Dec2024 00:28:43.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Dec2024 00:28:43.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Dec2024 00:28:44.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Dec2024 00:28:46.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[16Dec2024 00:28:46.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
