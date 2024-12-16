@@ -1,0 +1,13 @@
+Version: 1.5
+Date: 06-02-2024
+Day:
+  'Yes': 65
+  'No': 0
+  Won: 35
+  Lost: 0
+Night:
+  'Yes': 0
+  'No': 0
+  Won: 0
+  Lost: 0
+MoneySpent: 0.0

@@ -1,0 +1,74 @@
+
+message:
+  enable: true
+  interval: 50000
+  list:
+    message1:
+    - '&6&l&m>-----------------------------------------<'
+    - '&e&l>&e&l> &6Servidor tipo survival'
+    - '&e&l>&e&l> &6Recuerda unirte al canal de discord:'
+    - '&e&l>&e&l> &a&n https://discord.gg/mnJE9d88Gj'
+
+    - '&6&l&m>-----------------------------------------<'
+    message2:
+    - '&6&l&m>-----------------------------------------<'
+    - '&e&l>&e&l> &6Visita a TawnyWabbit en sus redes sociale:'
+    - ''
+    - '&6&l&m> &d&lTWITCH:         &d&n https://www.twitch.tv/tawnywabbit '
+    - ''
+    - '&6&l&m> &b&lTWITTER ("X"):  &b&n https://twitter.com/TawnyWabbit '
+    - ''
+    - '&6&l&m> &c&lINSTAGRAM        &c&n https://www.instagram.com/tawnywabbit/ '
+    - ''
+    - '&6&l&m>-----------------------------------------<'
+    message3:
+    - '&6&l&m>-----------------------------------------<'
+    - '&e&l>&e&l> &6Primer periodo de prueba del servidor'
+    - '&6&l&m>-----------------------------------------<'
+    message4:
+titles:
+  enable: true
+  interval: 50000
+  list:
+    titles1:
+      fadein: 20
+      stay: 50
+      fadeout: 10
+      title: '&6&lSERVIDOR TAWNYWABBIT &f1.0'
+      subtitle: '&6survival-MOD-PVP-PVE'
+    titles2:
+      fadein: 20
+      stay: 50
+      fadeout: 10
+      title: '&bOfficial server.'
+      subtitle: '&bBy Skipper and Greenegan'
+bossbar:
+  enable: false
+  interval: 200
+  list:
+    bossbar1:
+      color: RED
+      style: NOTCHED_20
+      seconds: 10
+      message: '&bmc.mundopixels.net'
+    bossbar2:
+      color: PURPLE
+      style: NOTCHED_20
+      seconds: 10
+      message: '&6&lMUNDO&f&lPIXELS &fNETWORK!'
+actionbar:
+  enable: true
+  interval: 3000
+  list:
+    actionbar1:
+      stay: 50
+      message: '&b&lhttps://www.twitch.tv/tawnywabbit'
+    actionbar2:
+      stay: 50
+      message: '&6&lhttps://twitter.com/TawnyWabbit'
+    actionbar3:
+      stay: 50
+      message: '&6&lhttps://www.instagram.com/tawnywabbit/'
+    actionbar4:
+      stay: 50
+      message: '&6&lhttps://discord.gg/mnJE9d88Gj'      
