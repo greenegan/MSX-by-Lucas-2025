@@ -1,0 +1,13 @@
+Version: 1.5
+Date: 06-02-2024
+Sunny:
+  'Yes': 11
+  'No': 0
+  Won: 6
+  Lost: 0
+Rainy:
+  'Yes': 0
+  'No': 0
+  Won: 0
+  Lost: 0
+MoneySpent: 0.0
