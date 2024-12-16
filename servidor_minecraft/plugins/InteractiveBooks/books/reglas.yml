@@ -1,0 +1,219 @@
+# This is an example book to show how to create one
+# Note: The placeholders in this book (like %player_name%) need PlaceholderAPI installed
+# with the proper expansions, see here for more information: https://www.spigotmc.org/resources/placeholderapi.6245/
+
+# Item's name
+name: "&b&lREGLAS"
+
+# Book's title
+title: Reglas
+
+# Book's author
+author: ADMIN
+
+# Book's generation
+# Valid values: ORIGINAL, COPY_OF_ORIGINAL, COPY_OF_COPY, TATTERED
+generation: ORIGINAL
+
+# Item's lore
+lore:
+- Example lore 1
+- Example lore 2
+
+# Command to open this book
+# You can remove this by setting it to ''
+# Separate multiple commands with a space
+open_command: 'reglas'
+
+# For the placeholders to work correctly
+# you have to download the Vault plugin:
+# https://www.spigotmc.org/resources/vault.34315/
+# and the Player and Vault expansions for PlaceholderAPI:
+# /papi ecloud download Player
+# /papi ecloud download Vault
+# /papi reload
+pages:
+  '1':
+  - '&lBIENVENIDO AL SERVIDOR &a&l"Tawnywabbit" 1.0 &ccon MODS &3(v. 1.19.2 forge)&r'
+  - ''
+  - 'El mundo de Tawny es un lugar libre y completamente supervivencia/aventura, con tintes de roleplay, dedicado principalmente a los miembros y participantes'
+  '2':
+  - 'del canal de Twitch: “TawnyWabbit”. Se busca que los jugadores participen activamente en la comunidad y, aunque el roleplay no es obligatorio, se sugiere seguir la corriente para meterse en la ambientación del juego, y así evitar cualquier tipo de incomodidad al resto'
+  '3':
+  - 'de jugadores.'
+  - ''
+  - 'Cualquier duda o petición no dudes en contactarte con algún administrador o miembro del staff del servidor o el canal de twitch.'
+  - ''
+  '4':
+  - '&d*Ten sentido común y se amigable. Lee y acata las normas. No olvides divertirte y pasarla bien*&r'
+  - ''
+  - 'Horarios de funcionamiento regulares:'
+  - ''
+  - '-Durante streams de twitch'
+  - ''
+  - '-00:00 --- 00:00'
+  '5':
+  - '&lREDES SOCIALES'
+  - ''
+  - '<hover:show_text:"&chttps://www.instagram.com/tawnywabbit/">&c&lINSTAGRAM<reset>'
+  - '<click:open_url:"https://www.instagram.com/tawnywabbit/">&cLink here!</click>'
+  - ''
+  - '<hover:show_text:"&dhttps://www.twitch.tv/tawnywabbit">&d&lTWITCH<reset>'
+  - '<click:open_url:"https://www.twitch.tv/tawnywabbit">&dLink here!</click>'
+  - ''
+  - '<hover:show_text:"&bhttps://twitter.com/TawnyWabbit">&b&lTWITTER<reset>'
+  - '<click:open_url:"https://twitter.com/TawnyWabbit">&bLink here!</click>'
+  - ''
+  - '<hover:show_text:"&fhttps://discord.gg/mnJE9d88Gj">&9&lDISCORD<reset>'
+  - '<click:open_url:"https://discord.gg/mnJE9d88Gj">&9Link here!</click>'
+  '6':
+  - '&1&lESTADÍSTICAS&r'
+  - ''
+  - 'Name: <green>%player_name%</green>'
+  - 'Level: <gold>%player_level%</gold>'
+  - 'Gamemode: <red>%player_gamemode%</red>'
+  - 'Balance: <gold>%vault_eco_balance%</gold>'
+  - 'Online players: <dark_red>%server_online%</dark_red>'
+  '7':
+  - '&lREGLAMENTO'
+  - ''
+  - '&c&l<< Prohibidos >>&r'
+  - ''
+  - '• Comentarios/ actitudes racistas, homófobas, sexistas o xenófobas (fuera de rol)'
+  - ''
+  - '• Ataques personales, difamaciones, acosar, o ser exageradamente molesto'
+  '8':
+  - '• Spam masivo en el chat o compartir links a contenido potencialmente peligroso o +18 NSFW' 
+  - ''
+  - '• Uso de hacks, mods ilegales o texturas maliciosas'
+  - ''
+  - '• Suplantar identidades de cuentas agenas'
+  '9':
+  - '• Causar crasheos forzando errores del juego, por uso de DDOS,  proxis u otros tipos de sabotajes' 
+  '10':
+  - '&6&l<< No se recomienda: >>&r'
+  - ''
+  - '• Usar modelos de personajes conflictivos o de mal gusto'
+  - ''
+  - '• Abusar de glitchs o exploits siempre que éstos puedan dañar el juego'
+  '11':
+  - '• Cualquier tipo de acción (malintencionada o no) que pueda generar lag en el servidor'
+  - ''
+  - '• Desplazamiento a altas velocidades que cause lag en el servidor por forzar la carga de Chunks'
+  - ''
+  '12':
+  - '• Dañar construcciones ajenas (fuera de rol)'
+  - ''
+  - '• Deteriorar el paisaje (fuera de rol)'
+  - ''
+  - '• Robar (fuera de rol)'
+  - ''
+  - '• Insistir en la ayuda o acción de algún administrador para alguna acción (se paciente)'
+  '13':
+  - '&a&l<< Sin sanciones - sugeribles: >>&r'
+  - ''
+  - '• Se aceptan recomendaciones para mejoramiento del servidor, sean inclusión de mods u otras sugerencias'
+  - ''
+  - ''
+  '14':
+  - '• Es posible pedir la reposición de algún ítem o construcción en caso de algún error, glitch, lag, o acción malintencionada de otro jugador. Se revisará el caso para decidir cómo se responderá según el caso'
+  - ''
+  '15':
+  - '• Peticiones para la aplicación de Nicks personalizados al usuario'
+  - ''
+  - '• Peticiones para la resolución de bugs o ayuda en las configuraciones de los mods y/o controles'
+  '16':
+  - '&1*Las sanciones por transgredir las normas del servidor y la comunidad serán discutidas, decididas y aplicadas por los administradores*'
+  '17':
+  - '&lAYUDA Y COMANDOS DE UTILIDAD:&r'
+  - ''
+  - '*Utiliza estos comandos en el chat*'
+  - ''
+  - '<hover:show_text:"Despliega páginas de ayuda">&9/help&r<reset>'
+  - '<hover:show_text:"Te matas a ti mismo">&9/suicide<reset>'
+  - '<hover:show_text:"Lista de jugadores conectados en el servidor">&9/list<reset>'
+  - '<hover:show_text:"Accion en roleplay (sin nickname)">&9/me<reset>'
+  - '<hover:show_text:"Describir acción (roleplay). Ignora el nickname">&9/say<reset>'
+  - '<hover:show_text:"Susurrar a jugador seleccionado">&9/minecraft:msg<reset>'
+  - '<hover:show_text:"Muestra la ID de la semilla del mapa">&9/seed<reset>'
+  - '<hover:show_text:"Manda mensajes a varios objetivos simultáneos">&9/tellraw<reset>'
+  '18':
+  - '<hover:show_text:"Añadir sombrero a cabeza">&9/hat<reset>'
+  - '<hover:show_text:"Borrar una marca “home”">&9/delhome<reset>'
+  - '<hover:show_text:"Remover casa de jugador por nombre de la casa">&9/remhome<reset>'
+  - '<hover:show_text:"Anviar solicitud a jugador para teletransportación">&9/tpa<reset>'
+  - '<hover:show_text:"Aceptar la solicitud de teletransportación más reciente">&9/tpaccept<reset>'
+  - '<hover:show_text:"Cencelar la solicitud de teletransportación más reciente">&9/tpacancel<reset>'
+  - '<hover:show_text:"Confirma el tp">&9/tpyes<reset>'
+  - '<hover:show_text:"Niega el tp">&9/tpno<reset>'
+  - '<hover:show_text:"Crear un apodo para tu personaje">&9/nick<reset>'
+  - '<hover:show_text:"Crear un apodo para tu personaje">&9/nickname<reset>'
+  - '<hover:show_text:"Hace una accion roleplay">&9/action<reset>'
+  - '<hover:show_text:"Funciona como un tpa">&9/call<reset>'
+  '19':
+  - '<hover:show_text:"Configuración de la clave de tu cuenta">&9/changepassword &a(clave anterior – clave nueva)&r<reset>'
+  - '<hover:show_text:"Configuración de plugins de duelos">&9/duels help<reset>'
+  - '<hover:show_text:"Configuración de plugins de duelos">&9/1vs1<reset>'
+  - '<hover:show_text:"Acción en roleplay">&9/eaction<reset>'
+  - '<hover:show_text:"Solicitud de tp a jugador">&9/ecall<reset>'
+  - '<hover:show_text:"Acción en roleplay">&9/eme<reset>'
+  - '<hover:show_text:"Estadisticas y rendimiento servidor">&9/forge<reset>'
+  - '<hover:show_text:"Info sobre plugin HD(holographic display)">&9/hd<reset>'
+  - '<hover:show_text:"Ignorar a un jugador">&9/ignore<reset>'
+  - '<hover:show_text:"Autoexpulsarse del servidor (temporalmente)">&9/kickme<reset>'
+  - '<hover:show_text:"Ver lista de casas">&9/listhomes<reset>'
+  - '<hover:show_text:"Ver lista de waps/portales">&9/listwarps<reset>'
+  '20':
+  - '<hover:show_text:"Lista dde comandos registro y contraseñas">&9/loginsecurty:<reset>'
+  - '<hover:show_text:"Muestra opciones de protección de cofres, puertas y otros bloques">&9/lockettex<reset>'
+  - '<hover:show_text:"Un bote de basura para desechar ítems">&9/trashcan<reset>'
+  - '<hover:show_text:"Añadir sombrero a cosmetic">&9/minecraf:coshat<reset>'
+  - '<hover:show_text:"Lista de jugadores conectados en el servidor">&9/minecraft:list<reset>'
+  - '<hover:show_text:"Susurrar a un jugador">&9/minecraft:msg &a(jugador)&r<reset>'
+  - '<hover:show_text:"Susurrar a un jugador">&9/minecraft:w &a(jugador)&r<reset>'
+  - '<hover:show_text:"Susurro/mensaje a miembros de grupo-tag">&9/minecraft:teammsg<reset>'
+  - '<hover:show_text:"Susurro/mensaje a miembros de grupo-tag">&9/minecraft:tm<reset>'
+  - '<hover:show_text:"Susurrar a jugador">&9/Minecraft:tell<reset>'
+  - '<hover:show_text:"Control de nicknames">&9/minecraft:nickname<reset>'
+  - '<hover:show_text:"Accion en roleplay (sin nickname)">&9/minecraft:me:<reset>'
+  '21':
+  - '<hover:show_text:"Grabar / dejar de grabar sonido para minecraft">&9/minecraft:recording<reset>'
+  - '<hover:show_text:"Notificación de stream en el chat minecraft (?)">&9/minecraft:streaming<reset>'
+  - '<hover:show_text:"Muestra menú de corail mod tumbstone">&9/minecraft:tbgui<reset>'
+  - '<hover:show_text:"Aceptar teleport de solicitud de corail mod tumbstone">&9/minecraft:tbacceptteleport<reset>'
+  - '<hover:show_text:"Solicitud para teletransportar jugador a tu posición ">&9/Minecraft:tpahere<reset>'
+  - '<hover:show_text:"Informacion sobre plugin place holdres">&9/papi<reset>'
+  - '<hover:show_text:"Reinicia mod pickupnotifier">&9/pickupnotifier reload<reset>'
+  - '<hover:show_text:"Ayuda sobre mod play more sounds">&9/playmoresounds:playmoresounds help<reset>'
+  - '<hover:show_text:"Ayuda sobre mod play more sounds">&9/pms help<reset>'
+  - '<hover:show_text:"Opcion para controlar sonidos extra de plugin play more sounds">&9/playmoresounds<reset>'
+  - '<hover:show_text:"Muestra comandos de Skin restorer mod">&9/skin<reset>'
+  - '<hover:show_text:"Muestra menú con banco de skins"><click:run_command:/skins>&9/skins<reset>'
+  '22':
+  - '<hover:show_text:"Ver los miembros en algún grupo/tag">&9/team<reset>'
+  - '<hover:show_text:"Enviar mensaje dedicado a jugador">&9/tell<reset>'
+  - '<hover:show_text:"Enviar mensaje a todo tu grupo/tag">&9/teammsg<reset>'
+  - '<hover:show_text:"Enviar mensaje a todo tu grupo/tag">&9/tm<reset>'
+  - '<hover:show_text:"Saber información del tiempo en el servidor">&9/time<reset>'
+  - '<hover:show_text:"Abrir menú de votación del tiempo">&9/timevote<reset>'
+  - '<hover:show_text:"Abrir menú de votación del tiempo">&9/tv<reset>'
+  - '<hover:show_text:"Dejar de ignorar a una persona">&9/unignore<reset>'
+  - '<hover:show_text:"Configuración WTHIT">&9/wailac<reset>'
+  - '<hover:show_text:"Abrir menú de votación del clima">&9/weathervote<reset>'
+  - '<hover:show_text:"Abrir menú de votación del clima">&9/wv<reset>'
+  - '<hover:show_text:"Recive información sobre tu localización y coordenadas en el mundo">&9/whereami<reset>'
+  - '<hover:show_text:"Susurrar a jugador">&9/whisper<reset>'
+  - '<hover:show_text:"Muestra información sobre jugadores conectados en el servidor">&9/who<reset>'
+  '23':
+  - '<hover:show_text:"Vender objeto a elección">&9/worth<reset>'
+  - '<hover:show_text:"Despliega libro de &a&lreglas&r del servidor">&9/reglas'
+  '24':
+  - '&lIMPORTANTE&r'
+  - ''
+  - 'Si usas la carpeta de mods predeterminada por el canal, recuerda que los mods que anteponen un “00_” en su nombre, son mods opcionales para mejorar la calidad visual y/o'
+  - 'cosmética del juego por lo que, si deseas'
+  '25':
+  - 'removerlos por temas de rendimiento o comodidad, no debería haber problema en ello.'
+  #- '<hover:show_text:"I''m a tooltip">Bienvenido al server "&a&lTawnyworld&r"<reset>'
+  #- '<hover:show_text:"Run the command "/examplecommand""><click:run_command:/examplecommand>Click here to run a command<reset>'
+  #- '<click:open_url:"https://www.spigotmc.org/resources/45604/">Click here to open a link</click>'

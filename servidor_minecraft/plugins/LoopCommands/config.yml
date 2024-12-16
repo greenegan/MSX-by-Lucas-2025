@@ -1,0 +1,26 @@
+loops:
+  CustomName:
+    commands: 
+    -   
+    time: 5S
+  one_minute:
+    commands: 
+    - 'hd reload' 
+    time: 10M
+  one_hour:
+    commands: 
+    -
+    time: 1H
+  one_day:
+    commands: 
+    - ""
+    time: 1D
+  ten_minutes:
+    commands: 
+    - 'save-all' 
+    time: 10M
+#TIME
+#  1H = 1 Hour
+#  5S = 5 Seconds
+#  1M = 1 Minute
+#  1D = 1 Day
