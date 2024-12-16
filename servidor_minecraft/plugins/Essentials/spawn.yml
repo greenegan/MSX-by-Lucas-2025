@@ -1,0 +1,25 @@
+spawns:
+  default:
+    world: 64f3a165-5df3-4790-af2d-5f510ef828e8
+    world-name: Tonyworldbyskipper
+    x: -289.4065644104425
+    y: 114.0
+    z: 480.3283073604706
+    yaw: -179.99908447265625
+    pitch: 8.55000114440918
+  tonyworldbyskipper:
+    world: 64f3a165-5df3-4790-af2d-5f510ef828e8
+    world-name: Tonyworldbyskipper
+    x: -289.53311301322594
+    y: 114.0
+    z: 480.3536435984168
+    yaw: -178.3505859375
+    pitch: 1.3494874238967896
+  lobo:
+    world: 64f3a165-5df3-4790-af2d-5f510ef828e8
+    world-name: Tonyworldbyskipper
+    x: -289.52133129095546
+    y: 114.0
+    z: 480.17275292933243
+    yaw: -178.64166259765625
+    pitch: 37.799983978271484

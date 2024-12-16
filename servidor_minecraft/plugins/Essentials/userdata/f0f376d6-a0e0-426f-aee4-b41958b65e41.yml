@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.106.71.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1710038089090
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1710297860782
+  login: 1710288570957
+money: '0'
+last-account-name: AzucarCloud
+logoutlocation:
+  world: 64f3a165-5df3-4790-af2d-5f510ef828e8
+  world-name: Tonyworldbyskipper
+  x: -788.1532087824778
+  y: 64.0
+  z: 182.68843882531456
+  yaw: 139.6171875
+  pitch: 13.499484062194824
+lastlocation:
+  world: 64f3a165-5df3-4790-af2d-5f510ef828e8
+  world-name: Tonyworldbyskipper
+  x: -789.0002128441218
+  y: 65.0
+  z: 180.30000001192093
+  yaw: 38.17193603515625
+  pitch: 20.849973678588867
+homes:
+  home:
+    world: 64f3a165-5df3-4790-af2d-5f510ef828e8
+    world-name: Tonyworldbyskipper
+    x: -383.884433292422
+    y: 93.0
+    z: 413.13977217751653
+    yaw: -168.5885009765625
+    pitch: 23.099811553955078

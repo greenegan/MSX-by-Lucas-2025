@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1708241719977
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709342365904
+  login: 1709341974811
+money: '0'
+last-account-name: Greenegan
+logoutlocation:
+  world: b7a8a495-1310-4646-a407-71337630b25a
+  world-name: Lobby
+  x: -6.659021825575212
+  y: 99.0
+  z: -41.273412502844245
+  yaw: 117.6917724609375
+  pitch: 6.299596786499023
+lastlocation:
+  world: 64f3a165-5df3-4790-af2d-5f510ef828e8
+  world-name: Tonyworldbyskipper
+  x: -308.48886359222837
+  y: 118.0
+  z: 462.77583827485455
+  yaw: -107.107177734375
+  pitch: 16.499990463256836
+nickname: §a§l§nSkipper_el_empanadalin

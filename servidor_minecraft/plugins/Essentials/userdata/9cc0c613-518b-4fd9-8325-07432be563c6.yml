@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.189.85.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1710297987398
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1710298061229
+  login: 1710286425976
+  kits:
+    tools: 1709343579693
+money: '0'
+last-account-name: GatoPan
+lastlocation:
+  world: b7a8a495-1310-4646-a407-71337630b25a
+  world-name: Lobby
+  x: -0.3607525864380846
+  y: 133.0
+  z: -182.26018821396403
+  yaw: 54.902679443359375
+  pitch: 3.8998422622680664
+logoutlocation:
+  world: 64f3a165-5df3-4790-af2d-5f510ef828e8
+  world-name: Tonyworldbyskipper
+  x: -570.6337275393928
+  y: 104.0
+  z: 490.13794142283166
+  yaw: -58.501556396484375
+  pitch: 53.24981689453125
+homes:
+  home:
+    world: 64f3a165-5df3-4790-af2d-5f510ef828e8
+    world-name: Tonyworldbyskipper
+    x: -570.445383631244
+    y: 104.0
+    z: 498.33263433852784
+    yaw: 51.141845703125
+    pitch: -0.3003579378128052

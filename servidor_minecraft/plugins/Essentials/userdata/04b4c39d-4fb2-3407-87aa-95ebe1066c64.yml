@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.154.33.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709342240576
+  login: 1709342055937
+money: '0'
+last-account-name: elcheet00s
+homes:
+  home:
+    world: b7a8a495-1310-4646-a407-71337630b25a
+    world-name: Lobby
+    x: -44.46955217190744
+    y: 98.0
+    z: -58.85444731593703
+    yaw: 150.04827880859375
+    pitch: -12.44977855682373
+logoutlocation:
+  world: b7a8a495-1310-4646-a407-71337630b25a
+  world-name: Lobby
+  x: -7.325187162398426
+  y: 99.0
+  z: -80.85034788834984
+  yaw: 177.80130004882812
+  pitch: 34.949867248535156
